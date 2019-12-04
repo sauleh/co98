@@ -5,7 +5,7 @@ permalink: /course_websites/
 ---
 
 | # |       Course Name                      |   Instructor    |   Student Name  | Website URL          |
-|---|:--------------------------------------:|:---------------:|:----------------|---------------------:|
+|---|:--------------------------------------:|:---------------|:----------------|---------------------:|
 | 1 | College Orientation and Student Skills |   Dr.Eetemadi   | Pariya Fesahat    | https://sauleh.github.io/co98 |
 | 2 |            Machine vision              | Dr.Mohammadi    | Mahdiye Naderi    |                       |
 | 3 |           systems Analysis             | Dr.minaei       | Ali Alamdari      |                       |

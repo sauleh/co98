@@ -8,3 +8,4 @@ title: مصاحبه با اساتید حل تمرین در مورد مدیریت
 due: 2019-02-21T23:59:00+3:30
 ---
 * [https://ahderakhshan.github.io/Post-Title-copy/](https://ahderakhshan.github.io/Post-Title-copy/)
+* []

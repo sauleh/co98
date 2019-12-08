@@ -29,3 +29,4 @@ permalink: /course_websites/
 |21 |          Data Structure                |Dr.Hosseyn Rahmani         |Babak Behkamkiya         |                      |
 |22 |      Database Design Principles        |Dr.Eisa Zarepour           |Amirhosseyn Samavat      |                      |
 |23 |             Assembly                   |Dr.Amir Mahdi Hosseyni     |Saeed Shahibzade         |                      |
+|24 |        Electrical Circuits             |Dr. Dianat                 |Yasaman Tavakkoli        |                      |

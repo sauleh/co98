@@ -8,4 +8,9 @@ title: مصاحبه با اساتید حل تمرین در مورد مدیریت
 due: 2019-02-21T23:59:00+3:30
 ---
 * [https://ahderakhshan.github.io/Post-Title-copy/](https://ahderakhshan.github.io/Post-Title-copy/)
-c
+*[https://babakbehkamkia.github.io/Post-ModiriateZaman/](https://babakbehkamkia.github.io/Post-ModiriateZaman/)
+*[https://hadi-f-gif.github.io/ta-meeting/](https://hadi-f-gif.github.io/ta-meeting/)
+*[https://mjavadmt.github.io/Post-Title-2/](https://mjavadmt.github.io/Post-Title-2/)
+*[https://saeedshahib.github.io/Post-Title/](https://saeedshahib.github.io/Post-Title/)
+*[https://fasaahat.github.io/Post-Manage/](https://fasaahat.github.io/Post-Manage/)
+*[https://shahrzadazari.github.io/Post-time/](https://shahrzadazari.github.io/Post-time/)

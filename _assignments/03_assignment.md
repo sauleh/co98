@@ -7,4 +7,4 @@ title: انتخاب استاد و درس برای طراحی وب
 #solutions: /static_files/assignments
 due: 2019-02-21T23:59:00+3:30
 ---
-* [https://ahderakhshan.github.io/Post-Title-copy/](https://ahderakhshan.github.io/Post-Title-copy/)
+* [https://sauleh.github.io/co98/course_websites/](https://sauleh.github.io/co98/course_websites/)

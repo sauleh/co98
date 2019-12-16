@@ -30,3 +30,8 @@ permalink: /course_websites/
 |22 |      Database Design Principles        |Dr.Eisa Zarepour           |Amirhosseyn Samavat      |                      |
 |23 |             Assembly                   |Dr.Amir Mahdi Hosseyni     |Saeed Shahibzade         |                      |
 |24 |        Electrical Circuits             |Dr. Dianat                 |Yasaman Tavakkoli        |                      |
+|25 |       Computer Architecture            |Dr. Soryani                |Moein Kazemi |                              
+|26 |       Discrete Mathematics             |Dr. Entezari               |Mohammad Ali Samadi |
+|27 |       Computer Aided Design            |Dr. Falahati               |Pouria Zamani |
+|28 |  Foundations of Wireless Communications|Dr. Dianat                 |Roozbeh Ghazavi |
+|29 |  Signals and Systems                   |Dr. Akbari                 |Mohammad Mehdi Mahmoudzadeh|

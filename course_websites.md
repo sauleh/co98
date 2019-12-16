@@ -31,11 +31,7 @@ permalink: /course_websites/
 |23 |             Assembly                   |Dr.Amir Mahdi Hosseyni     |Saeed Shahibzade           |                      |
 |24 |        Electrical Circuits             |Dr. Dianat                 |Yasaman Tavakkoli          |                      |
 |25 |       Computer Architecture            |Dr.Mohsen Soryani          |Moein Kazemi               |                              
-|26 |       Discrete Mathematics             |Dr.Reza Entezari           |Mohammad Ali Samadi        |
-                |
-|27 |       Computer Aided Design            |Dr.Hajar Falahati          |Pouria Zamani              |
-                |
-|28 |  Foundations of Wireless Communications|Dr.Abolfazl Dianat         |Roozbeh Ghazavi            |
-                |
-|29 |  Signals and Systems                   |Dr.Ahmad Akbari            |Mohammad Mehdi Mahmoudzadeh|
-                |
+|26 |       Discrete Mathematics             |Dr.Reza Entezari           |Mohammad Ali Samadi        |              |
+|27 |       Computer Aided Design            |Dr.Hajar Falahati          |Pouria Zamani              |           |
+|28 |  Foundations of Wireless Communications|Dr.Abolfazl Dianat         |Roozbeh Ghazavi            |              |
+|29 |  Signals and Systems                   |Dr.Ahmad Akbari            |Mohammad Mehdi Mahmoudzadeh|             |

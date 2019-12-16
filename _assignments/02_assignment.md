@@ -7,7 +7,7 @@ title: مصاحبه با اساتید حل تمرین در مورد مدیریت
 #solutions: /static_files/assignments
 due: 2019-02-21T23:59:00+3:30
 ---
-* [https://ahderakhshan.github.io/Post-Title-copy/](https://ahderakhshan.github.io/Post-Title-copy/) <br>
+*[https://ahderakhshan.github.io/Post-Title-copy/](https://ahderakhshan.github.io/Post-Title-copy/) <br>
 *[https://babakbehkamkia.github.io/Post-ModiriateZaman/](https://babakbehkamkia.github.io/Post-ModiriateZaman/) <br>
 *[https://hadi-f-gif.github.io/ta-meeting/](https://hadi-f-gif.github.io/ta-meeting/) <br>
 *[https://mjavadmt.github.io/Post-Title-2/](https://mjavadmt.github.io/Post-Title-2/) <br>

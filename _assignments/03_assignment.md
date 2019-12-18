@@ -7,9 +7,5 @@ title: انتخاب استاد و درس برای طراحی وب
 #solutions: /static_files/assignments
 due: 2019-02-21T23:59:00+3:30
 ---
-<<<<<<< HEAD
-* [https://sauleh.github.io/co98/course_websites/](https://sauleh.github.io/co98/course_websites/)
-=======
 * [Official Syllabus](../static_files/materials/ComputerEng_OfficialSylabus.pdf)
 * [Course website to Clone](https://github.com/sauleh/course_template)
->>>>>>> 6a6b8620731639d2a39c05a19bfa6aaa5c650a8b

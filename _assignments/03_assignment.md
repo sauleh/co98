@@ -12,8 +12,12 @@ due: 2019-02-21T23:59:00+3:30
 * [Course website to Clone](https://github.com/sauleh/course_template)
 
 # LaTeX Templates
-* LaTeX Quiz [Template](../static_files/materials/QuizTemplate.zip). \[[Preview](../static_files/materials/QuizTemplate.pdf)\], With Solution: \[[Preview](../static_files/materials/QuizTemplate-Solution.pdf)\]. [Real Example](https://sauleh.github.io/ds98/static_files/quizes/Quiz9-Solution.pdf). 
-* LaTeX Assignment [Template](../static_files/materials/AssignmentTemplate.zip). \[[Preview](../static_files/materials/AssignmentTemplate.pdf)\]. [Real Example](https://sauleh.github.io/fc98/static_files/assignments/MAssignment1.pdf)
+* LaTeX Quiz [Template](../static_files/materials/QuizTemplate.zip). 
+    * \[[Preview](../static_files/materials/QuizTemplate.pdf)\], With Solution: \[[Preview](../static_files/materials/QuizTemplate-Solution.pdf)\]. 
+    * [Real Example](https://sauleh.github.io/ds98/static_files/quizes/Quiz9-Solution.pdf). 
+* LaTeX Assignment [Template](../static_files/materials/AssignmentTemplate.zip). 
+    * \[[Preview](../static_files/materials/AssignmentTemplate.pdf)\]. 
+    * [Real Example](https://sauleh.github.io/fc98/static_files/assignments/MAssignment1.pdf)
 
 # Best University Level CS course lists
 * Awesome CS Courses by [Prakhar](https://github.com/prakhar1989/awesome-courses)

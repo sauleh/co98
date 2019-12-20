@@ -7,13 +7,13 @@ permalink: /course_websites/
 | # |       Course Name                      |   Instructor     |   Student Name   | Website URL           |Email Sent|
 |---|:--------------------------------------:|:-----------------|:-----------------|:---------------------:|:--------:|
 | 1 | College Orientation and Student Skills |Dr.Sayyed Sauleh Eetemadi  | Pariya Fesahat            | [link](https://sauleh.github.io/co98) | - |
-| 2 |            Machine Vision              |Dr.Mohammad Reza Mohammadi |Mahdiye Naderi             | [link]() | |
+| 2 |            Machine Vision              |Dr.Mohammad Reza Mohammadi |Mahdiye Naderi             | [link](https://mnaderi98.github.io/Machine-Vision/) | Yes |
 | 3 |           systems Analysis             |Dr.Behrooz Minaei          |Ali Alamdari               | [link]() | |
 | 4 |         Software Engineering           |Dr.Mehrdad Ashtiyani       |Shahrzad Azari             | [link](https://shahrzadazari.github.io/software_engineering/) | Yes |
-| 5 |           Systems Security             |Dr.Zeynab Movahhedi        |Mohammad Mahdi Javid       | [link]() | |
+| 5 |           Systems Security             |Dr.Zeynab Movahhedi        |Mohammad Mahdi Javid       | [link](mahdi-javid.github.io/computer-systems-security) | Yes |
 | 6 |           Automata Theory              |Dr.Mohammad Reza Kangavari |Mohammad Hosseyn Rajabi    | [link]() | |
 | 7 |           Automata Theory              |Dr.Hossein Rahmani         |Zahra Amiri                | [link](https://zahra-amiri.github.io/Automata_Theory/) | Yes |
-| 8 |         Internet Engineering           |Dr.Vesal Hakami            |Yasaman Farhangi           | [link]() | |
+| 8 |         Internet Engineering           |Dr.Vesal Hakami            |Yasaman Farhangi           | [link](https://yasamanfarhangi.github.io/Internet_Engineering/) | Yes|
 | 9 |         Advanced Programming           |Dr.Marziye Maleki          |Parmida Sanayee            | [link]() | |
 |10 |            logic Circuit               |Dr.Hakem Beytollahi        |MohammadJavad Mahditabar   | [link](https://mjavadmt.github.io/lc98/) | Yes |
 |11 |                Network                 |Dr.Morteza Analoui         |Azade Darabi               | [link](https://azadehdarabi.github.io/Network/) | No |
@@ -27,7 +27,7 @@ permalink: /course_websites/
 |19 |                IOT                     |Dr.Eisa Zarepour           |Soroosh Mehdizade          | [link]() | |
 |20 |              Compiler                  |Dr.Eynollah Khanjari       |Niki Majidifar             | [link](https://nikimajidifard.github.io/compilers/) | Yes |
 |21 |          Data Structure                |Dr.Hosseyn Rahmani         |Babak Behkamkiya           | [link](https://babakbehkamkia.github.io/course_template/) | Yes |
-|22 |      Database Design Principles        |Dr.Eisa Zarepour           |Amirhosseyn Samavat        | [link]() | |
+|22 |      Database Design Principles        |Dr.Eisa Zarepour           |Amirhosseyn Samavat        | [link](https://amirsmvt.github.io/Database/) | Yes |
 |23 |             Assembly                   |Dr.Amir Mahdi Hosseyni     |Saeed Shahibzade           | [link](https://saeedshahib.github.io/course_template/) | Yes |
 |24 |        Electrical Circuits             |Dr. Dianat                 |Yasaman Tavakkoli          | [link](https://yasamant.github.io/course_template/) | Yes |
 |25 |       Computer Architecture            |Dr.Mohsen Soryani          |Moein Kazemi               | [link](https://moein1379.github.io/course_template/) | Yes |                  

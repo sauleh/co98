@@ -35,3 +35,4 @@ permalink: /course_websites/
 |27 |       Computer Aided Design            |Dr.Hajar Falahati          |Pouria Zamani              |           |
 |28 |  Foundations of Wireless Communications|Dr.Abolfazl Dianat         |Roozbeh Ghazavi            |              |
 |29 |  Signals and Systems                   |Dr.Ahmad Akbari            |Mohammad Mehdi Mahmoudzadeh|             |
+|30 |  Operating Systrems                    |Dr.Mohsen Sharifi          |Ghazal Bakhshandeh         | |

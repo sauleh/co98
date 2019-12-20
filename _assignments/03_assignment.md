@@ -15,3 +15,9 @@ due: 2019-02-21T23:59:00+3:30
 * LaTeX Quiz [Template](../static_files/materials/QuizTemplate.zip). \[[Preview](../static_files/materials/QuizTemplate.pdf)\], With Solution: \[[Preview](../static_files/materials/QuizTemplate-Solution.pdf)\].
 * LaTeX Assignment [Template](../static_files/materials/AssignmentTemplate.zip). \[[Preview](../static_files/materials/AssignmentTemplate.pdf)\].
 
+# Best University Level CS course lists
+* Awesome CS Courses by [Prakhar](https://github.com/prakhar1989/awesome-courses)
+* Awesome CS Courses by [Faraz](https://github.com/fffaraz/awesome-courses)
+* CS Course list by [Learn Anything](https://github.com/learn-anything/courses)
+* CS Course list by [Open Source Society University](https://github.com/ossu/computer-science)
+

@@ -19,5 +19,5 @@ due: 2019-02-21T23:59:00+3:30
 *[https://fasaahat.github.io/Post-HDD/](https://fasaahat.github.io/Post-HDD/) <br>
 *[https://parmiida.github.io/Post-Title/](https://parmiida.github.io/Post-Title/) <br>
 *[https://mjavadmt.github.io/Post-Title-8/](https://mjavadmt.github.io/Post-Title-8/) <br>
-*[https://shahrzadazari.github.io/post-hard/](https://shahrzadazari.github.io/post-hard/) <br>
+*[https://shahrzadazari.github.io/post-hard/](https://shahrzadazari.github.io/post-hard/) <br>posts
 

@@ -25,4 +25,4 @@ permalink: /course-materials/
 * [Computer Science](https://github.com/ossu/computer-science)
 
 
-<iframe width="100%" height="480px" src="http://rhumbl.com/embed/5e101ddad91deb0010349247"></iframe>
+<iframe width="100%" height="480px" src="https://rhumbl.com/embed/5e101ddad91deb0010349247"></iframe>

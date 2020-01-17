@@ -10,7 +10,7 @@ permalink: /course_websites/
 | 2 |            Machine Vision              |Dr.Mohammad Reza Mohammadi |Mahdiye Naderi             | [link](https://mnaderi98.github.io/Machine-Vision/) | Yes |
 | 3 |           systems Analysis             |Dr.Behrooz Minaei          |Ali Alamdari               | [link](https://ali6600alamdari.github.io/course_template/) | Yes |
 | 4 |         Software Engineering           |Dr.Mehrdad Ashtiyani       |Shahrzad Azari             | [link](https://shahrzadazari.github.io/software_engineering/) | Yes |
-| 5 |           Systems Security             |Dr.Zeynab Movahhedi        |Mohammad Mahdi Javid       | [link](mahdi-javid.github.io/computer-systems-security) | Yes |
+| 5 |           Systems Security             |Dr.Zeynab Movahhedi        |Mohammad Mahdi Javid       | [link](https://mahdi-javid.github.io/CSE) | Yes |
 | 6 |           Automata Theory              |Dr.Mohammad Reza Kangavari |Mohammad Hosseyn Rajabi    | [link](https://rajabi78.github.io/course_template/) | Yes |
 | 7 |           Automata Theory              |Dr.Hossein Rahmani         |Zahra Amiri                | [link](https://zahra-amiri.github.io/Automata_Theory/) | Yes |
 | 8 |         Internet Engineering           |Dr.Vesal Hakami            |Yasaman Farhangi           | [link](https://yasamanfarhangi.github.io/Internet_Engineering/) | Yes|

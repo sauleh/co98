@@ -1,8 +1,8 @@
 # Features
-- Individual page for assignments, lectures, course material, schedule, final project
+- Individual page for assignments, Apply, course material, schedule, final project
 - Auto generated Schedule Page
 - 3 Event type
-- Manual & auto generated announcements (for new lectures and assignments)
+- Manual & auto generated announcements (for new Apply and assignments)
 - Support for Persian Calendar
 - Super lightweight 
 - Ready to use in Github Pages
@@ -29,10 +29,10 @@ This template is heavily based on [svmiller / course-website](https://github.com
 6. build! `jekyll build -d path/to/your/output/dir`
 
 # How to edit website
-There are 6 types of content you can add to the website, each content category has its own template & its own subdirectory. if you follow the templates, All pages will be generated automatically for you including Announcements, Schedule, and Lectures.
+There are 6 types of content you can add to the website, each content category has its own template & its own subdirectory. if you follow the templates, All pages will be generated automatically for you including Announcements, Schedule, and Apply.
 
-## Lectures
-If you want to add a new lecture, please create an empty file with `.md` postfix in `_lectures/` directory. fill it using below template:
+## Apply
+If you want to add a new lecture, please create an empty file with `.md` postfix in `_Apply/` directory. fill it using below template:
 ```markdown
 ---
 type: lecture

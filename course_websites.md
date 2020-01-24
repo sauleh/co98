@@ -35,4 +35,4 @@ permalink: /course_websites/
 |27 |       Computer Aided Design            |Dr.Hajar Falahati          |Pouria Zamani              | [link](https://pouria-zamani.github.io/course_template/) | Yes |
 |28 |  Foundations of Wireless Communications|Dr.Abolfazl Dianat         |Roozbeh Ghazavi            | [link](https://roozbehghazavi.github.io/course_template/) | Yes |
 |29 |  Signals and Systems                   |Dr.Ahmad Akbari            |Mohammad Mehdi Mahmoudzadeh| [link](https://mahmoud2560.github.io/course_template/) | Yes |
-|30 |  Operating Systrems                    |Dr.Mohsen Sharifi          |Ghazal Bakhshandeh         | [link](https://ghazalbn.github.io/operating_systems/) |  Yes|
+|30 |  Operating Systems                    |Dr.Mohsen Sharifi          |Ghazal Bakhshandeh         | [link](https://ghazalbn.github.io/operating_systems/) |  Yes|

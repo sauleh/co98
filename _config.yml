@@ -37,7 +37,7 @@ future: true
 collections:
     events:
         output: true
-    Apply:
+    lectures:
         output: true
     assignments:
         output: true

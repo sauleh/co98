@@ -32,7 +32,7 @@ This template is heavily based on [svmiller / course-website](https://github.com
 There are 6 types of content you can add to the website, each content category has its own template & its own subdirectory. if you follow the templates, All pages will be generated automatically for you including Announcements, Schedule, and Apply.
 
 ## Apply
-If you want to add a new lecture, please create an empty file with `.md` postfix in `_Apply/` directory. fill it using below template:
+If you want to add a new lecture, please create an empty file with `.md` postfix in `_lectures/` directory. fill it using below template:
 ```markdown
 ---
 type: lecture

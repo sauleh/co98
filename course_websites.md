@@ -23,16 +23,17 @@ permalink: /course_websites/
 |15 |              Game Design               |Dr.Behrooz Minaei          |Zahra Momeninezhad         | [link](https://zahramomeni.github.io/Game_Design/) | Yes |
 |16 |    Object Oriented Systems Design      |Dr.Mehrdad Ashtiyani       |AmirHosseyn Derakhshan     | [link](https://ahderakhshan.github.io/course_template/) | Yes |
 |17 |           Logical Circuits                |Dr.Hajar Falahati          |Fateme Jalalvand           | [link](https://fjalalvand.github.io/logic_circuit/) | Yes |
-|18 |         Digital Electronics            |Dr.Naser Mozayani          |Banafshe Gholinejad        | [link](banafshehgholinejad802@gmail.com) | Yes |
+|18 |         Digital Electronics            |Dr.Naser Mozayani          |Banafshe Gholinejad        | [link](http://vioghn.github.io/digital_electronics) | Yes |
 |19 |                IOT                     |Dr.Eisa Zarepour           |Soroosh Mehdizade          | [link](https://sorooshmz.github.io/course_template/) | Yes |
 |20 |              Compiler Design Fundamental                  |Dr.Eynollah Khanjari       |Niki Majidifar             | [link](https://nikimajidifard.github.io/compilers/) | Yes |
 |21 |          Data Structure                |Dr.Hosseyn Rahmani         |Babak Behkamkiya           | [link](https://babakbehkamkia.github.io/course_template/) | Yes |
 |22 |      Database Design Principles        |Dr.Eisa Zarepour           |Amirhosseyn Samavat        | [link](https://amirsmvt.github.io/Database/) | Yes |
 |23 |             Microprocessors and Assembly language                  |Dr.Amir Mahdi Hosseyni     |Saeed Shahibzade           | [link](https://saeedshahib.github.io/course_template/) | Yes |
 |24 |        Electrical Circuits             |Dr. Dianat                 |Yasaman Tavakkoli          | [link](https://yasamant.github.io/course_template/) | Yes |
-|25 |       Computer Architecture            |Dr.Mohsen Soryani          |Moein Kazemi               | [link](https://moein1379.github.io/course_template/) | Yes |                  
+|25 |       Computer Architecture            |Dr.Mohsen Soryani          |Moein Kazemi               | [link](http://moein1379.github.io/CA) | Yes |                  
 |26 |       Discrete Mathematics             |Dr.Reza Entezari           |Mohammad Ali Samadi        | [link](https://masamadi6474.github.io/ostaddars/) | Yes |
 |27 |       Computer Aided Design            |Dr.Hajar Falahati          |Pouria Zamani              | [link](https://pouria-zamani.github.io/course_template/) | Yes |
 |28 |  Foundations of Wireless Communications|Dr.Abolfazl Dianat         |Roozbeh Ghazavi            | [link](https://roozbehghazavi.github.io/course_template/) | Yes |
 |29 |  Signals and Systems                   |Dr.Ahmad Akbari            |Mohammad Mehdi Mahmoudzadeh| [link](https://mahmoud2560.github.io/course_template/) | Yes |
-|30 |  Operating Systems                    |Dr.Mohsen Sharifi          |Ghazal Bakhshandeh         | [link](https://ghazalbn.github.io/operating_systems/) |  Yes|
+|30 |  Operating Systems                     |Dr.Mohsen Sharifi          |Ghazal Bakhshandeh         | [link](https://ghazalbn.github.io/operating_systems/) |  Yes|
+|31 |   Fundamentals of Computer Programming |Dr.Reza Entezari           |Hadi Mehdipour    | [link](http://hadi-f-gif.github.io/fc98) | _|

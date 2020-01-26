@@ -26,7 +26,7 @@ permalink: /course_websites/
 |18 |         Digital Electronics            |Dr.Naser Mozayani          |Banafshe Gholinejad        | [link](http://vioghn.github.io/digital_electronics) | Yes |
 |19 |                IOT                     |Dr.Eisa Zarepour           |Soroosh Mehdizade          | [link](https://sorooshmz.github.io/course_template/) | Yes |
 |20 |              Compiler Design Fundamental                  |Dr.Eynollah Khanjari       |Niki Majidifar             | [link](https://nikimajidifard.github.io/compilers/) | Yes |
-|21 |          Data Structure                |Dr.Hosseyn Rahmani         |Babak Behkamkiya           | [link](https://babakbehkamkia.github.io/course_template/) | Yes |
+|21 |          Data Structure                |Dr.Hosseyn Rahmani         |Babak Behkamkiya           | [link](http://babakbehkamkia.github.io/Data_Structure/) | Yes |
 |22 |      Database Design Principles        |Dr.Eisa Zarepour           |Amirhosseyn Samavat        | [link](https://amirsmvt.github.io/Database/) | Yes |
 |23 |             Microprocessors and Assembly language                  |Dr.Amir Mahdi Hosseyni     |Saeed Shahibzade           | [link](https://saeedshahib.github.io/course_template/) | Yes |
 |24 |        Electrical Circuits             |Dr. Dianat                 |Yasaman Tavakkoli          | [link](https://yasamant.github.io/course_template/) | Yes |

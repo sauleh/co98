@@ -8,7 +8,7 @@ permalink: /course_websites/
 |---|:--------------------------------------:|:-----------------|:-----------------|:---------------------:|:--------:|
 | 1 | College Orientation and Student Skills |Dr.Sayyed Sauleh Eetemadi  | Pariya Fesahat            | [link](https://sauleh.github.io/co98) | - |
 | 2 |            Machine Vision              |Dr.Mohammad Reza Mohammadi |Mahdiye Naderi             | [link](https://mnaderi98.github.io/Machine-Vision/) | Yes |
-| 3 |           systems Analysis             |Dr.Behrooz Minaei          |Ali Alamdari               | [link](https://ali6600alamdari.github.io/course_template/) | Yes |
+| 3 |           systems Analysis             |Dr.Behrooz Minaei          |Ali Alamdari               | [link](https://ali6600alamdari.github.io/SE99/) | Yes |
 | 4 |         Software Engineering           |Dr.Mehrdad Ashtiyani       |Shahrzad Azari             | [link](https://shahrzadazari.github.io/software_engineering/) | Yes |
 | 5 |           Systems Security             |Dr.Zeynab Movahhedi        |Mohammad Mahdi Javid       | [link](https://mahdi-javid.github.io/CSE) | Yes |
 | 6 |          The Theory of Formal Languages and Automata             |Dr.Mohammad Reza Kangavari |Mohammad Hosseyn Rajabi    | [link](https://rajabi78.github.io/course_template/) | Yes |

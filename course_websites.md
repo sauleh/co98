@@ -22,7 +22,7 @@ permalink: /course_websites/
 |14 |               Compiler Design Fundamental                 |Dr.Saeed Parsa             |Niusha Yaghini             | [link](https://niusha-yaghini.github.io/course_template/) | Yes |
 |15 |              Game Design               |Dr.Behrooz Minaei          |Zahra Momeninezhad         | [link](https://zahramomeni.github.io/Game_Design/) | Yes |
 |16 |    Object Oriented Systems Design      |Dr.Mehrdad Ashtiyani       |AmirHosseyn Derakhshan     | [link](https://ahderakhshan.github.io/course_template/) | Yes |
-|17 |           Logical Circuits                |Dr.Hajar Falahati          |Fateme Jalalvand           | [link](fjalalvand.github.io/logic_circuit/) | Yes |
+|17 |           Logical Circuits                |Dr.Hajar Falahati          |Fateme Jalalvand           | [link](https://fjalalvand.github.io/logic_circuit/) | Yes |
 |18 |         Digital Electronics            |Dr.Naser Mozayani          |Banafshe Gholinejad        | [link](http://vioghn.github.io/digital_electronics) | Yes |
 |19 |                IOT                     |Dr.Eisa Zarepour           |Soroosh Mehdizade          | [link](https://sorooshmz.github.io/course_template/) | Yes |
 |20 |              Compiler Design Fundamental                  |Dr.Eynollah Khanjari       |Niki Majidifar             | [link](https://nikimajidifard.github.io/compilers/) | Yes |

@@ -31,5 +31,5 @@ permalink: /course-materials/
 
 
 
-<iframe width="100%" height="480px" src="https://rhumbl.com/app/embed/5e3b6a2e0a31150e0a4da13b"></iframe>
+<iframe width="100%" height="480px" src="https://rhumbl.com/app/share/5e3b6a2e0a31150e0a4da13b"></iframe>
 <!-- https://rhumbl.com/app/share/5e3b6a2e0a31150e0a4da13b -->

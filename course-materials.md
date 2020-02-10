@@ -28,7 +28,7 @@ permalink: /course-materials/
 # Books for New Students
 * [A review of approprite behaviors in academia](http://saneibook.com/%D9%81%D9%88%D8%AA-%D9%88-%D9%81%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%D9%8A%D9%8A--%D9%85%D8%B1%D9%88%D8%B1%D9%8A-%D8%A8%D8%B1-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1%D9%87%D8%A7%D9%8A-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%AF%D8%B1-%D9%85%D8%AD%D9%8A%D8%B7-%D9%87%D8%A7%D9%8A-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%D9%8A_46379)
 * [Author of this book](https://www.instagram.com/zharfapsycenter)
-
+<p dir="rtl">
 *خلاصه‌ای از کتاب فوت‌و‌فن دانشجویی* <br>
  در راستای آشنایی با چالش‌های ورود به دانشگاه و حل این چالش ها؛ این کتاب در بیست‌و‌پنج
  بخش نوشته شده است؛که هر کدام از این بخش ها یکی از ابعاد دانشگاه را در برمیگیرد. <br>
@@ -43,7 +43,7 @@ permalink: /course-materials/
 البته که امروزه این تعاملات وارد فضای مجازی نیز شده‌اند؛که در بخش پانزدهم به آن پرداخته‌ شده. <br>
 خواندن بخش نوزدهم برای دانشجویان خوابگاهی نیز خالی از لطف نیست. <br>
 امیدواریم که این کتاب و مطالب آن موثر واقع شود. <br>
-
+</p>
 
 
 <iframe width="100%" height="480px" src="https://rhumbl.com/app/share/5e3b6a2e0a31150e0a4da13b"></iframe>
